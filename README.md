@@ -26,7 +26,8 @@ Passionate about building modern and scalable web applications.
 - [LinkedIn](www.linkedin.com/in/zied-omer-802802282)
 
 ## 🚀 Live Demo
-🔗 [View Project on Vercel]((https://vercel.com/zieds-projects-a0b3371c))
+🔗 [View Project on Vercel](https://vercel.com/zieds-projects-a0b3371c)
+
 
 
   
